@@ -16,7 +16,9 @@ e = int(input("SST Marks     = "))
 f = int(input("AI Marks      = "))
 print("")
 g = float(input("Marks are out of = "))
-sum = (a+b+c+d+e+f)/100*g
+h = float(input ("total no.of subject"))
+i = g*h
+sum = (a+b+c+d+e+f)/i*100
 print("")
 Name = str(input("What is your name? "))
 print(" ")
