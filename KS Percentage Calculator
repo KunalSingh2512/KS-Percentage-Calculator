@@ -16,11 +16,11 @@ e = int(input("SST Marks     = "))
 f = int(input("AI Marks      = "))
 print("")
 g = float(input("Marks are out of = "))
-h = float(input ("total no.of subject"))
+h = float(input ("total no. of subject = "))
 i = g*h
 sum = (a+b+c+d+e+f)/i*100
 print("")
-Name = str(input("What is your name? "))
+Name = str(input("What is your name? = "))
 print(" ")
 print(Name, "got", sum)
 if sum <= 33 :
