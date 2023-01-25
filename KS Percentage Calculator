@@ -34,7 +34,7 @@ if sum >= 90 :
     print("Hurray!",Name, "is in class toppers list")
 print("")
 (input("Any Feedback - "))
-print("The python AI has recorded your experience, we have sent your experience and feedback <if any> to the honourable developer <Mr. Kunal Singh>")
+print("The python AI has recorded your experience & feedback, we have sent your experience and feedback <if any> to the developer")
 print("Thankyou for using KS Calcuator to find percentage")
 print("Have a nice day!")
 print("")
