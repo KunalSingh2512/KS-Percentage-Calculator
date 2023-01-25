@@ -18,7 +18,7 @@ f = int(input("AI Marks      = "))
 j = int(input("Computer Marks = "))
 print("")
 g = float(input("Marks are out of = "))
-h = float(input ("total no.of subject"))
+h = float(input ("total no.of subjects = "))
 i = g*h
 sum = (a+b+c+d+e+f+j)/i*100
 print("")
